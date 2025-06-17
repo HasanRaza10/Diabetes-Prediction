@@ -24,7 +24,7 @@ The dataset is publicly available and was taken from: [link to Kaggle/UCI]
 - Data is preprocessed (missing values handled, standardized)
 - Model is trained on 80% of the data
 - Tested on 20% of the data
-- Accuracy score is ___%
+- Accuracy score is 78%
 
 ## 📈 Output
 The model prints whether a person is diabetic or not based on user input.
